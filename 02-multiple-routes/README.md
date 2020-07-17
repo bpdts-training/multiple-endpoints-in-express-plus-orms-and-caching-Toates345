@@ -23,18 +23,10 @@ The resources from the last exercise are still valid.
 
 #### Once You're Done
 
-If you found that horrifically easy, and you didn't try this exercise in the previous session, then use Self Service to install Postgres, and pull information from a database table into you Express API, then display it.
+If you found that horrifically easy, then use Self Service to install Postgres, and pull information from a database table into you Express API, then display it.
 
 * https://medium.com/@dannibla/connecting-nodejs-postgresql-f8967b9f5932
 * https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8/
-
-If you have already completed the Postgres task, then the next "stretch exercise" is to use an ORM to access the data. There is a tutorial here:
-
-* https://stackabuse.com/using-sequelize-orm-with-nodejs-and-express/
-
-If you get through that and are still struggling to find things to do with your time, then run up a local Docker instance, and use it to interface with Redis. Follow the instructions in this blog to cache the routes on your application which access the database via the ORM:
-
-* https://www.npmjs.com/package/express-redis-cache
 
 ###### Warning!
 
